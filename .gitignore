@@ -1,0 +1,5 @@
+# Sikawan Telegram Bot — file runtime, jangan di-commit
+profile/
+.owner
+__pycache__/
+*.pyc
